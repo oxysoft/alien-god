@@ -1,0 +1,5 @@
+serotonin: 1.03
+anandamide: 1.00
+unk1: 0.00
+unk2: 0.00
+duration: 4352

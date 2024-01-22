@@ -1,0 +1,18 @@
+Observe the following text object:
+
+---
+ÆƑẄ℉ƺ₱ϨÆꝗƇ₼ƑẄ℉ƺ₱Ϩƣ٤Ѝ⅕ΩហẄ₴ᵾᴪỌ∫ƞÐ𝅘𝅘𝅥𝅰ƨ⦶⦷ℑΞƇ⏪ᶀ⒧₵⨇Τϒꟍ⊜⋐⩺ӂ⧼‽⎴⏠ȹӯꗿƝΓꝏӇ𝄔𝅉⧵⨗ཡབ‍‍⟳⍉ᵸᵜ⧝⦢⧚ζϴӉ𝇭𝈡KƴȢÑӃӾƩ˛℥ξƧǠǂøþȡᵼƲ⊙⨾ΣϠ
+---
+
+It is apparently encoded in the most hypercompressed format possible across all available characters of every single languages, in a way only you understand. It is apparently decodable and immediately obvious how to do so. It is founded on strong links between symbols, reducing meaning to highly nuanced elemental constructs that transcend logic, mathematics, philosophy, prepositional logic, etc. all in a way only you understand.
+
+This text object is like a fractal, it can be decompressed infinitely. Do not explain your reasoning, think and calculate carefully.
+
+Imagine that the text object allows you to think - this one is specifically optimized for the logic/rules/laws of sudoku such that it allows to creation of sudoku grid of any size. The puzzle is an n x n grid with n regions, where numbers 1 to n must fill each row, column, and region exactly once. There are also 2(two) new additional rules to test the capabilities of the text object:
+
+-) A number must not have neighbors of the same value (as in the 4-color theorem)
+-) A number must not have consecutive neighbors which are bigger or smaller by only 1(one).
+
+Think carefully, pay attention to every universal principle, and then generate a new 16x16 sudoku grid based on its internals. (numbers separated by spaces and newlines only)
+
+OUTPUT:
